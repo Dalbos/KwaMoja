@@ -10,5 +10,5 @@
 		<p>As with everything related to this project we ask everybody to read and abide by our <a href="" onclick="return OpenSubWindow('CodeOfConduct.php', '<i>KwaMoja</i> Code Of Conduct')">Code of Conduct</a> before signing up for our forums. Abuse of this code will not be tolerated.</p>
 		<img src="images/email.png" style="float: left" />
 		<h1>Mailing lists</h1>
-		<p>The developers mailing list archives are a great resource for questions that have been asked in the past. It is always worth checking the archives of both the forums and the mailing list before asking your question to discover if it has been asked before. This saves everybody time, and avoids the developers in having to answer the same question multiple times.<p>
+		<p>The <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=kwamoja-development" target="_blank">developers mailing list archives</a> are a great resource for questions that have been asked in the past. It is always worth checking the archives of both the forums and the mailing list before asking your question to discover if it has been asked before. This saves everybody time, and avoids the developers in having to answer the same question multiple times.<p>
 </div>

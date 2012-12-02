@@ -1,6 +1,6 @@
 <?php
 
-$Twitter=new TwitterWidget('right', 'uganda', 8);
+$Twitter=new TwitterWidget('right', 'kwamoja', 8);
 echo '<script>setInterval("searchTwitter()", 30000);</script>';
 ?>
 		<input type="radio" id="tab-1" name="tab-group-1" checked />
